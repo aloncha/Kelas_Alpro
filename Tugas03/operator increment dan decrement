@@ -9,7 +9,7 @@ void main(){
     printf("a++ = %d\n", a);
 
     // increment a
-    ++a;
+    ++a; 
 
     printf("++a = %d\n", a);
 
