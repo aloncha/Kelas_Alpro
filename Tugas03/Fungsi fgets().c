@@ -3,7 +3,7 @@
 int main(){
     char name[50], email[50];
     
-    printf("Nama: ");
+    printf("Nama: "); 
     fgets(name, sizeof(name), stdin);
     
     printf("Email: ");
